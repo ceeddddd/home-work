@@ -1,0 +1,10 @@
+.table-hover {
+    width: 1000px;
+    
+}
+a:hover{
+    color: rgb(171, 206, 206);
+}
+form{
+    width: 50%;
+}
